@@ -1,0 +1,7 @@
+# Session context cache
+.session-context.tmp
+*.tmp
+
+# Local testing files
+test-output/
+example-skills/
